@@ -1,0 +1,7 @@
+A merge conflict is an event that takes place when Git is unable to automatically resolve differences in code between two commits. Git can merge the changes automatically only if the commits are on different lines or branches.
+
+Resolving the merge conflict
+
+After editing the file, we can use the git add a command to stage the new merged content
+The final step is to create a new commit with the help of the git commit command
+Git will create a new merge commit to finalize the merge
